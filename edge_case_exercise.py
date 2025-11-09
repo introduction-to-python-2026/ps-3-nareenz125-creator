@@ -1,6 +1,6 @@
 def move(my_list, direction):
 
-    # Finds the index of the one in the list
+    my_list=[0,0,1,0,0]
     index_of_one = my_list.index(1)
 
     # Move the one to the left or to the right
